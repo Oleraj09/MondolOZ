@@ -1,0 +1,17 @@
+.slidec{
+    padding-top: 5%;
+    height: auto;
+    background: rebeccapurple;
+    margin-bottom: -50px;
+    padding-bottom: 100px;
+}
+.todo-bg{
+    background: rgb(117, 11, 11) !important;
+    border-radius: 5px;
+}
+.padding{
+    margin-bottom: -20px;
+}
+.form input, button, select, optgroup, textarea {
+    padding: 8px 20px !important;
+}

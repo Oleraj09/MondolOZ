@@ -1,0 +1,12 @@
+.slider {
+    background: darkslategray;
+    height: 250px;
+    padding: 20px 15%;
+}
+hr{
+    border: 1px solid wheat;
+}
+.link{
+    text-decoration: none;
+    color: rgb(178, 178, 245);
+}

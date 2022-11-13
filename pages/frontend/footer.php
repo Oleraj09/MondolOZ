@@ -76,10 +76,13 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.js"></script>  
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/js/all.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/filterizr/2.2.4/filterizr.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.min.js"></script>
     <script src="assests/js/mystyle.js"></script>
     <script src="assests/js/button.js"></script>
     <script src="assests/js/todo.js"></script>
     <script src="assests/js/calculator.js"></script>
+    <script src="assests/js/stats.js"></script>
 
 </body>
 </html>

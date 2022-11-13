@@ -10,5 +10,8 @@ if(isset($_GET['pages'])){
     if($_GET['pages']=='todo'){
         include "pages/todo.php";
     }
+    if($_GET['pages']=='admin'){
+        include "pages/backend/admin.php";
+    }
 }
 include "pages/frontend/footer.php";

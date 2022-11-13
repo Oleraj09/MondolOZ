@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="assests/css/responsive.css">
     <link rel="stylesheet" href="assests/css/todo.css">
     <link rel="stylesheet" href="assests/css/calculator.css">
+    <link rel="stylesheet" href="assests/css/admin.css">
 </head>
 <body>
     <header id="header">
@@ -41,7 +42,7 @@
                             </ul>
                         </li>
                         <li class="nav-item"><a href="#blogpost" class="nav-link">Blogs</a></li>
-                        <li class="nav-item"><p class="nav-link" data-toggle="modal" data-target="#exampleModalCenter">Login</p></li>
+                        <li class="nav-item"><a href="action.php?pages=admin" class="nav-link" data-toggle="modal" data-target="#exampleModalCenter">Login</a></li>
                     </ul>
                 </div> 
             </div>
